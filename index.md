@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+[About](about.md) | 
 
 # Terry Ruskoski
 
