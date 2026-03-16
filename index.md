@@ -2,24 +2,19 @@
 layout: default
 title: Home
 ---
-[About](about.md) | 
+[About](about.md) | Case Studies | Contact
 
 # Terry Ruskoski
 
 Welcome to my personal website.
 
-I recently completed my PhD in Biochemistry and am interested in scientific research, leadership, and systems improvement.
+I analyze messy systems, identify inefficiencies, and build clearer, more effective processes. My background trained me to diagnose complex problems, synthesize information quickly, and improve workflows in ways that make teams function better.
 
-## About me
-
-I work at the intersection of science, problem-solving, and communication.
-
-## Projects
-
-Coming soon.
 
 ## Contact
 
-You can find me on [GitHub](https://github.com/terryruskoski).
+You can find me on [LinkedIn](http://www.linkedin.com/in/terry-ruskoski).
 
-This page is currently under construction. 
+
+
+This page is currently under construction.
