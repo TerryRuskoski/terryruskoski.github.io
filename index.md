@@ -20,3 +20,5 @@ Coming soon.
 ## Contact
 
 You can find me on [GitHub](https://github.com/terryruskoski).
+
+This page is currently under construction. 
