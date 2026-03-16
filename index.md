@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Home
+nav_order: 1
 ---
-[About](about.md) | [Case Studies](case_studies.md) | Contact
+
 
 # Terry Ruskoski
 
