@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-[About](about.md) | Case Studies | Contact
+[About](about.md) | [Case Studies](case_studies.md) | Contact
 
 # Terry Ruskoski
 
