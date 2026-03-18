@@ -23,7 +23,9 @@ When I prepared to take maternity leave, I redesigned the workflow to make it do
 
 ## Visual Summary
 
-![Beamtime Coordination System Redesign](/assets/images/Beamtime_Redesign_flow.png)
+<img src="/assets/images/Beamtime_Redesign_flow.png" 
+     alt="Beamtime Coordination System Redesign" 
+     style="display:block; margin: 1rem 0; max-width: 100%;">
 
 *This redesign transformed beamtime coordination from a single-person dependency into a structured, team-based workflow supported by standardized processes and operational controls, enabling reliable coordination for more than 35 researchers across six laboratories and multiple national synchrotron facilities.*
 
