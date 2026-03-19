@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Beamtime Coordination System Redesign"
+layout: default
+title: Beamtime Coordination System Redesign
 permalink: /case-studies/beamtime-coordination/
 ---
 # Case Study: Beamtime Coordination System Redesign
