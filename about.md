@@ -33,4 +33,4 @@ Now, I’m intentionally pursuing roles where this mindset is not incidental, bu
 
 ---
 
-If you’re interested in how I approach real-world problems, I encourage you to explore my [case studies](/case-studies/), which highlight how I’ve redesigned systems to improve reliability, coordination, and long-term sustainability.
+If you’re interested in how I approach real-world problems, I encourage you to explore my [case studies](/case-studies/index/), which highlight how I’ve redesigned systems to improve reliability, coordination, and long-term sustainability.
