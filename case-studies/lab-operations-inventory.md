@@ -20,7 +20,7 @@ The result was a sustainable system that supported uninterrupted lab operations,
 
 - Eliminated chronic stockouts of high-use lab supplies  
 - Reduced reliance on inter-lab borrowing as a default operating mode  
-- Established a **predictable and resilient inventory system**, including during COVID-related supply disruptions  
+- Established a **predictable, resilient inventory system**, including during COVID-related supply disruptions  
 - Enabled full team adoption through **SOP-driven training and role rotation**  
 - Created documentation that was adopted by researchers outside the lab  
 
@@ -45,10 +45,8 @@ The lab had already transitioned from handwritten inventory requests to a digita
 - Lack of training resources for a newly implemented institutional procurement system  
 - Heavy reliance on a single individual for ordering, creating continuity risk  
 
-This resulted in a system that was **digitized but not operationally reliable**, with persistent gaps in inventory management and process ownership.
+This resulted in a system that was digitized but **not operationally reliable**, with persistent gaps in inventory management and process ownership.
 
-
-## Approach
 
 ## Approach
 I approached the problem as a system design challenge, focusing on reliability, visibility, and transferability:
@@ -56,11 +54,11 @@ I approached the problem as a system design challenge, focusing on reliability, 
 > How can inventory management be structured so that supply levels are predictable, responsibilities are distributed, and the system functions independently of any single individual?
 
 Key steps included:
-- Defining inventory management as a **repeatable workflow with clear inputs, checkpoints, and outputs**  
-- Establishing **minimum reorder points** based on usage patterns and supplier lead times  
-- Designing a **low-cost, behavior-driven system** to make reorder points visible and actionable to all users  
-- Implementing **regular inventory audits** through structured lab walkthroughs  
-- Creating **end-user-focused SOPs** for the institutional procurement system, filling gaps left by inadequate training materials  
+- Defining inventory management as a repeatable workflow with clear **inputs, checkpoints, and outputs**  
+- Establishing minimum reorder points based on usage patterns and supplier lead times  
+- Designing a low-cost, behavior-driven system to make reorder points visible and actionable to all users  
+- Implementing regular inventory audits through structured lab walkthroughs  
+- Creating end-user-focused SOPs for the institutional procurement system, filling gaps left by inadequate training materials  
 - Improving physical organization and visibility of supplies to reduce friction in daily use  
 
 ## Process Improvements Implemented
@@ -74,7 +72,7 @@ Key steps included:
 
 ## Outcome
 - Transitioned the system from reactive (stockouts and borrowing) to **proactive inventory management**  
-- Reduced reliance on a single individual by embedding **inventory awareness into daily lab behavior**  
+- **Reduced reliance on a single individual** by embedding inventory awareness into daily workflows 
 - Maintained consistent supply availability, even during **COVID-related supply chain disruptions**  
 - Enabled rapid onboarding of new users through clear documentation and training workflows  
 - Successfully transferred system ownership from a single individual to a **rotating team-based model**  
@@ -82,10 +80,10 @@ Key steps included:
 
 ## Long-Term Impact
 - Established a sustainable inventory system that remained in use after role transition  
-- Demonstrated that **operational reliability depends on both process design and physical system clarity**  
-- Highlighted the importance of **aligning digital tools with real-world workflows**  
+- Demonstrated that operational reliability depends on both process design and physical system clarity 
+- Highlighted the importance of aligning digital tools with real-world workflows
 - Provided a scalable model for managing shared resources in multi-user environments  
-- Reinforced the value of **training systems that propagate knowledge through teams rather than relying on central ownership**  
+- Reinforced the value of training systems that propagate knowledge through teams rather than relying on central ownership
 
 ## Skills Demonstrated
 
