@@ -19,7 +19,7 @@ My background in biochemistry trained me to diagnose complex, ambiguous problems
 
 See how I’ve applied this approach in practice:
 
-→ [View Case Studies](/case-studies/)
+→ [View Case Studies](/case-studies/index/)
 
 These examples highlight how I’ve redesigned workflows, eliminated single points of failure, and built operational systems that scale beyond any one individual.
 
