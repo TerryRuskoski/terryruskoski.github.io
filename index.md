@@ -7,15 +7,20 @@ nav_order: 1
 
 # Terry Ruskoski
 
-Welcome to my personal website.
+I design and improve operational systems so they function reliably, efficiently, and at scale.
 
-I analyze messy systems, identify inefficiencies, and build clearer, more effective processes. My background trained me to diagnose complex problems, synthesize information quickly, and improve workflows in ways that make teams function better.
+My background in biochemistry trained me to diagnose complex, ambiguous problems and identify the underlying causes of failure. Throughout my career, I’ve applied that same systems-thinking approach to real-world workflows—improving coordination, eliminating inefficiencies, and building processes that teams can actually use and sustain.
+
+## Case Studies
+
+See how I’ve applied this approach in practice:
+
+→ [View Case Studies](/case-studies/)
+
+These examples highlight how I’ve redesigned workflows, eliminated single points of failure, and built operational systems that scale beyond any one individual.
 
 
 ## Contact
 
 You can find me on [LinkedIn](http://www.linkedin.com/in/terry-ruskoski).
 
-
-
-This page is currently under construction.
