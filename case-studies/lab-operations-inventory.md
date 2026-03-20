@@ -4,7 +4,7 @@ title: Building a Resilient Lab Inventory and Procurement System
 permalink: /case-studies/lab-operations-inventory/
 ---
 
-# Building a Resilient Lab Inventory and Procurement System
+# Case Study: Building a Resilient Lab Inventory and Procurement System
 
 *Example from research lab operations during my PhD*
 
@@ -102,3 +102,8 @@ This experience reinforced that operational systems do not fail solely due to la
 Notably, effective solutions do not always require new resources—many of the most impactful improvements came from designing systems that aligned with how people naturally interact with their environment. By embedding reorder signals directly into the physical workspace, inventory management became a shared, low-friction responsibility rather than a centralized task.
 
 This same approach—designing workflows that anticipate failure points, align with user behavior, and distribute ownership—is directly applicable to operational environments in industry settings.
+
+
+---
+
+Return to [Case Studies](/case-studies/index/)
