@@ -165,3 +165,7 @@ I developed this system years before learning the formal language of Lean Six Si
 
 Looking back, this project reflects the kind of work I am consistently drawn to: identifying operational risk, clarifying responsibilities, reducing friction, and building systems that are durable enough to function beyond any one individual.
 
+
+---
+
+Return to [Case Studies](/case-studies/index/)
