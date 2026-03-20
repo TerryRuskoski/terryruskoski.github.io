@@ -13,7 +13,7 @@ Initially, this entire process depended on a single individual—myself—who ma
 
 When I prepared to take maternity leave, I redesigned the workflow to make it documented, transferable, and sustainable for a larger team.
 
-## Impact at a Glance
+## Impact
 
 - **10–20 active users** supported per beamtime session
 - **35+ total users** across **6 research labs**
@@ -44,7 +44,7 @@ Our group initially collected data at two beamlines, each operating on roughly t
 
 Because the beamlines scheduled independently—and one facility assigned collection dates without flexibility—beamtime sessions sometimes occurred close together. Coordinating these events required careful planning to ensure samples, equipment, and personnel were prepared across multiple laboratories.
 
-## The Challenge
+## Challenge
 
 Coordinating beamtime required managing multiple interconnected processes:
 
@@ -56,8 +56,6 @@ Coordinating beamtime required managing multiple interconnected processes:
 - data transfer and storage
 - sample return, storage, and equipment cleanup
 
-### Before
-
 Before redesign, the workflow depended on a single coordinator, responsibilities were informal, and key requirements—especially those tied to facility compliance—were not systematically documented.
 
 This created several operational risks:
@@ -68,9 +66,13 @@ This created several operational risks:
 - the lab lacked continuity if the primary coordinator was unavailable
 - the process had limited scalability as the user base and facility complexity grew
 
-## My Approach
+## Approach
 
-To create a sustainable system, I redesigned the workflow around two clearly defined operational roles.
+I approached the problem as a system design challenge, focusing on reliability, continuity, and scalability:
+
+> *How can beamtime coordination be structured to eliminate single points of failure, ensure consistent execution across users, and remain scalable as system complexity increases?*
+
+This led to a redesign of the system around clearly defined roles and standardized workflows:
 
 ### Beamtime Manager
 
@@ -118,15 +120,13 @@ These checklists clearly identified which steps were **facility compliance requi
 
 ### Standardized Turnaround Window
 
-I also established a minimum turnaround time between beamtime sessions. This ensured that equipment and samples could be received, processed, cleaned, and prepared for the next shipment without requiring the purchase of additional cryogenic shipping dewars.
+I also established a **minimum turnaround time** between beamtime sessions. This ensured that equipment and samples could be received, processed, cleaned, and prepared for the next shipment without requiring the purchase of additional cryogenic shipping dewars.
 
 This change helped maximize beamtime utilization while minimizing equipment costs.
 
 ## Outcome
 
-### After
-
-After redesign, beamtime coordination became a structured, team-based system supported by documented procedures, defined roles, and repeatable operational controls.
+After redesign, beamtime coordination became a structured, team-based system supported by **documented procedures, defined roles, and repeatable operational controls**.
 
 Key results included:
 
