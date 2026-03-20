@@ -4,7 +4,7 @@ title: Diagnosing a Missing Dependency in a Complex System
 permalink: /case-studies/missing-dependency/
 ---
 
-# Diagnosing a Missing Dependency in a Complex System
+# Case Study: Diagnosing a Missing Dependency in a Complex System
 
 *Example from biochemical pathway analysis during my PhD research*
 
@@ -95,3 +95,8 @@ Key steps included:
 This project reinforced that system failures are not always caused by incorrect components, but often arise from missing or unrecognized dependencies within the workflow.
 
 By shifting from optimizing known elements to identifying what was absent, I was able to restore system function without redesigning the entire system. This approach—examining how inputs are introduced, how components interact, and where dependencies may be missing—applies directly to diagnosing and improving operational systems in industry settings.
+
+
+---
+
+Return to [Case Studies](/case-studies/index/)
