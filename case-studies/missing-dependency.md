@@ -25,7 +25,7 @@ Although this example comes from a molecular system, the same approach applies d
 
 ## Visual Summary
 
-![System Diagnosis Workflow](/assets/images/missing-dependencies_biochem.png)
+Image coming soon!
 
 ## Operational Scope
 
