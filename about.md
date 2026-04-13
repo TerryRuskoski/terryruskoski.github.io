@@ -8,7 +8,7 @@ permalink: /about/
 
 I’m a systems thinker driven to understand how complex environments function—and why they sometimes don’t.
 
-My path hasn’t been linear, but the throughline has been consistent. I began with a BA in Sociology, where I was trained to think about systems at the human level—how people interact with structures, where breakdowns occur, and how environments shape behavior. I then moved into healthcare and later into research, ultimately earning a PhD in Biochemistry.
+My path hasn’t been linear, but the throughline has been consistent. I began with a BA in Sociology, focusing on workplace and organizational dynamics—how people interact with systems, where breakdowns occur, and how structures shape behavior. That perspective carried with me as I moved into healthcare and later into research, ultimately earning a PhD in Biochemistry.
 
 While the domains changed, my approach did not.
 
