@@ -33,7 +33,7 @@ Many operational challenges are not purely technical—they emerge at the inters
 
 My perspective is shaped by experience in both clinical and research environments, where I’ve seen how system design directly impacts outcomes. During graduate school, I also became a parent, which reinforced the importance of building systems that are resilient—capable of functioning under real-world constraints, not just ideal conditions.
 
-As new technologies—particularly AI—become increasingly integrated into scientific and healthcare workflows, I see them not as replacements for human decision-making, but as additional layers within the system that must be thoughtfully designed and implemented. Like any tool, its effectiveness depends on how well it aligns with real-world use--how people interpret its outputs, where it fits within existing processes, and how it shapes behavior over time.
+As new technologies—particularly AI—become increasingly integrated into scientific and healthcare workflows, I see them not as replacements for human decision-making, but as additional layers within the system that must be thoughtfully designed and implemented. Like any tool, its effectiveness depends on how well it aligns with real-world use—how people interpret its outputs, where it fits within existing processes, and how it shapes behavior over time.
 
 At the same time, I think carefully about how these tools change the way expertise is developed. Many roles that traditionally build foundational understanding—where people learn systems through direct interaction and iteration—are also the ones most likely to be automated. This creates a gap between the need for informed oversight and the pathways available to develop that understanding.
 
