@@ -28,7 +28,7 @@ Built a resilient lab inventory and procurement system that eliminated chronic s
 *Operations • Inventory Management • Process Standardization*
 
 ## [Case Study #3: Diagnosing a Missing Component in a Complex System](/case-studies/missing-dependency/)
-Diagnosed a failure in a complex biochemical system by identifying a missing functional dependency, restoring system performance and revealing the underlying mechanism through system-level analysis rather than iterative optimization.
+Diagnosed a failure in a complex biochemical system by identifying a missing functional dependency, enabling system performance and revealing the underlying mechanism through system-level analysis rather than iterative optimization.
 
 *Systems Thinking • Root Cause Analysis • Problem Solving*
 
