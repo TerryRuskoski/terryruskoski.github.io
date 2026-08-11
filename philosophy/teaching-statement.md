@@ -3,6 +3,7 @@ layout: default
 title: Terry Ruskoski - Teaching Statement
 ---
 #Teaching Statement - Terry Ruskoski
+
 <img src="/assets/images/Headshot.png" 
      alt="Terry Ruskoski" 
      style="float: right; width: 150px; border-radius: 8px; margin-left: 1rem; margin-bottom: 1rem;">
