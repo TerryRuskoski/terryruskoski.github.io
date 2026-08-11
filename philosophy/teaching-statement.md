@@ -3,6 +3,9 @@ layout: default
 title: Terry Ruskoski - Teaching Statement
 ---
 #Teaching Statement - Terry Ruskoski
+<img src="/assets/images/Headshot.png" 
+     alt="Terry Ruskoski" 
+     style="float: right; width: 150px; border-radius: 8px; margin-left: 1rem; margin-bottom: 1rem;">
 
 My approach to teaching is rooted in curiosity, mentorship, and the belief that all students are capable of developing scientific thinking when given support, encouragement, and opportunities to connect concepts to the world around them. As a first-generation college student who began my own journey to a Ph.D. in Biochemistry at College of DuPage, I understand firsthand the challenges many students face while trying to navigate higher education, discover where they belong, and build a future in science. My own journey was not linear, and it was shaped by mentors and educators who helped me recognize opportunities, develop confidence, and persist through uncertainty. I hope to provide that same support for my students.
 
