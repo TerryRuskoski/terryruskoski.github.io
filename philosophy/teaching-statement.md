@@ -2,7 +2,7 @@
 layout: default
 title: Terry Ruskoski - Teaching Statement
 ---
-#Teaching Statement - Terry Ruskoski
+# Teaching Statement - Terry Ruskoski
 
 <img src="/assets/images/Headshot.png" 
      alt="Terry Ruskoski" 
