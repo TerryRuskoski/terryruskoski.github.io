@@ -11,7 +11,7 @@ nav_order: 1
      alt="Terry Ruskoski" 
      style="float: right; width: 150px; border-radius: 8px; margin-left: 1rem; margin-bottom: 1rem;">
 
-#### I improve complex operations, programs, and workflows by understanding how people, processes, resources, and information interact—and redesigning the systems that connect them.
+### I improve complex operations, programs, and workflows by understanding how people, processes, resources, and information interact—and redesigning the systems that connect them.
 
 
 I am drawn to the places where good work gets harder than it needs to be—where complex systems, limited resources, competing priorities, and human realities collide. My interests span science, healthcare, education, and workforce development, but the underlying question is the same: how can we build systems that work better for the people inside them and produce better outcomes for the people they serve?
