@@ -39,7 +39,7 @@ At the same time, I think carefully about how these tools change the way experti
 
 I’m particularly interested in how AI can be integrated in ways that support, rather than bypass, the development of practical understanding—augmenting human judgment, reducing cognitive load, and making complex information more accessible, while still preserving opportunities to build the context needed to use these systems effectively. Integrating these tools well requires the same systems-based approach: understanding the full context in which they operate and designing around how people actually work.
 
-Now, I’m intentionally pursuing roles where this mindset is central—where I can apply systems thinking, process design, and continuous improvement to help teams operate more effectively in real-world settings.
+Now, I’m intentionally pursuing roles where this mindset is central—improving complex operations, programs, and workflows by understanding how people, processes, resources, and information interact, then designing systems that make the work more reliable, intuitive, and sustainable.
 
 ---
 
