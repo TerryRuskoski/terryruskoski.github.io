@@ -21,26 +21,19 @@ Across every environment I’ve worked in, I’ve been drawn to the same questio
 
 During my PhD at Penn State, this showed up across scientific, operational, and educational contexts. I studied complex molecular systems, diagnosing missing dependencies and redesigning experimental approaches to enable function. At the same time, I was drawn to improving the systems around me—redesigning lab workflows, building inventory systems, coordinating large, multi-team operations like synchrotron data collections. Outside the lab, I also helped reshape educational programs when their structure, implementation, or outreach no longer matched the needs of the people they were meant to serve.
 
-I don’t approach problems by optimizing pieces in isolation. I look at the full system—inputs, dependencies, constraints, and how information and responsibility flow—and redesign it to be more reliable, intuitive, and sustainable.
+I don’t approach problems by optimizing pieces in isolation. I look at the full system—its inputs, dependencies, constraints, and flows of information and responsibility—to understand what is actually shaping the outcome.
 
 ***I design systems for how people actually behave—not how we expect them to behave.***
 
-This perspective applies not only to people and processes, but to the tools and technologies that shape how work gets done. 
+For me, human-centered systems design starts with understanding how work actually happens. I pay attention to where people improvise around a process, where information or responsibility gets lost, where a well-designed system has drifted away from its original purpose, and where success depends too heavily on individual knowledge or effort. I’m less interested in imposing an ideal workflow than in understanding the constraints people are already navigating and building structures that make the desired outcome easier, clearer, and more sustainable.
 
-Processes don’t exist in isolation. They are shaped by the people who use them, the environments they operate within, and the dynamics between individuals on a team. In practice, this means I pay close attention to working styles, communication patterns, and team interactions, and adapt systems and workflows to reduce friction and improve clarity.
+My perspective has also been shaped by working in clinical and research environments, where system design can have immediate consequences, and by becoming a parent during graduate school. Before maternity leave, I redesigned several laboratory operations around rotating facilitator models and trained others to take ownership of work that had previously depended heavily on me. When I returned, the systems were still running smoothly—and my labmates had developed greater autonomy and confidence in managing them. That experience created more space for me to be both a parent and a researcher while also making the group less dependent on any one person. It showed me firsthand that a good system does more than improve efficiency: it makes more possible for everyone.
 
-Many operational challenges are not purely technical—they emerge at the intersection of people, process, and environment. Designing systems with this in mind leads to solutions that are not only effective, but adoptable and durable in real-world use.
-
-My perspective is shaped by experience in both clinical and research environments, where I’ve seen how system design directly impacts outcomes. During graduate school, I also became a parent, which reinforced the importance of building systems that are resilient—capable of functioning under real-world constraints, not just ideal conditions.
-
-As new technologies—particularly AI—become increasingly integrated into scientific and healthcare workflows, I see them not as replacements for human decision-making, but as additional layers within the system that must be thoughtfully designed and implemented. Like any tool, its effectiveness depends on how well it aligns with real-world use—how people interpret its outputs, where it fits within existing processes, and how it shapes behavior over time.
-
-At the same time, I think carefully about how these tools change the way expertise is developed. Many roles that traditionally build foundational understanding—where people learn systems through direct interaction and iteration—are also the ones most likely to be automated. This creates a gap between the need for informed oversight and the pathways available to develop that understanding.
-
-I’m particularly interested in how AI can be integrated in ways that support, rather than bypass, the development of practical understanding—augmenting human judgment, reducing cognitive load, and making complex information more accessible, while still preserving opportunities to build the context needed to use these systems effectively. Integrating these tools well requires the same systems-based approach: understanding the full context in which they operate and designing around how people actually work.
+These experiences reinforced something I already suspected: systems designed only for ideal conditions are fragile. Good systems have to accommodate competing demands, interruptions, uneven experience, limited time, and the ordinary variability of real life.
 
 Now, I’m intentionally pursuing roles where this mindset is central—improving complex operations, programs, and workflows by understanding how people, processes, resources, and information interact, then designing systems that make the work more reliable, intuitive, and sustainable.
 
 ---
+
 
 If you’re interested in how I approach real-world problems, I encourage you to explore my [case studies](/case-studies/index/), which highlight how I’ve redesigned systems to improve reliability, coordination, and long-term sustainability.
