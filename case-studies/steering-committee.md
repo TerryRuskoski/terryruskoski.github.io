@@ -1,4 +1,10 @@
-# Redesigning a First-Year Graduate Curriculum Around the Learner Experience
+---
+layout: default
+title: Aligning a First-Year Graduate Curriculum with Learner Experience and Program Outcomes
+permalink: /case-studies/steering-committee/
+---
+
+# Aligning a First-Year Graduate Curriculum with Learner Experience and Program Outcomes
 
 ## Overview
 
