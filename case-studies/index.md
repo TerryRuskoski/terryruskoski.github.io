@@ -27,7 +27,12 @@ Built a resilient lab inventory and procurement system that eliminated chronic s
 
 *Operations • Inventory Management • Process Standardization*
 
-## [Case Study #3: Diagnosing a Missing Component in a Complex System](/case-studies/missing-dependency/)
+## [Case Study #3:Graduate Curriculum Redesign](/case-studies/steering-committee/)
+Evaluated a fragmented first-year graduate curriculum by connecting student experience with program-level learning outcomes. Helped reframe a contentious faculty discussion around implementation and system performance, contributing to the retirement and replacement of all three existing courses.
+
+*Program Evaluation • Curriculum Redesign • Stakeholder Engagement*
+
+## [Case Study #4: Diagnosing a Missing Component in a Complex System](/case-studies/missing-dependency/)
 Diagnosed a failure in a complex biochemical system by identifying a missing functional dependency, enabling system performance and revealing the underlying mechanism through system-level analysis rather than iterative optimization.
 
 *Systems Thinking • Root Cause Analysis • Problem Solving*
