@@ -124,3 +124,7 @@ This project reinforced a principle that now shapes much of how I approach syste
 The faculty involved had deep expertise and many of the individual curriculum components had sound rationales. The breakdown became visible only when we examined how those components interacted over time, what students experienced while navigating them, and whether the curriculum as a whole was still producing the outcomes the program intended.
 
 Effective redesign therefore required more than identifying what was not working. It required understanding the system’s original intent, separating design from implementation, making space for different stakeholder perspectives, and creating enough shared understanding for change to become possible.
+
+---
+
+Return to [Case Studies](/case-studies/index/)
