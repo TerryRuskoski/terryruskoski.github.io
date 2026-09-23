@@ -19,7 +19,7 @@ Across every environment I’ve worked in, I’ve been drawn to the same questio
 - *What’s missing, unclear, or unnecessarily complex?*  
 - *How can it be redesigned so it actually works for the people using it?*  
 
-During my PhD at Penn State, this showed up in both scientific and operational contexts. I studied complex molecular systems, diagnosing missing dependencies and redesigning experimental approaches to enable function. At the same time, I was drawn to improving the systems around me—redesigning lab workflows, building inventory systems, and coordinating large, multi-team operations like synchrotron data collections.
+During my PhD at Penn State, this showed up across scientific, operational, and educational contexts. I studied complex molecular systems, diagnosing missing dependencies and redesigning experimental approaches to enable function. At the same time, I was drawn to improving the systems around me—redesigning lab workflows, building inventory systems, coordinating large, multi-team operations like synchrotron data collections. Outside the lab, I also helped reshape educational programs when their structure, implementation, or outreach no longer matched the needs of the people they were meant to serve.
 
 I don’t approach problems by optimizing pieces in isolation. I look at the full system—inputs, dependencies, constraints, and how information and responsibility flow—and redesign it to be more reliable, intuitive, and sustainable.
 
