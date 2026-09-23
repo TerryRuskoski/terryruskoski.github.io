@@ -14,7 +14,7 @@ Throughout my career, I’ve been drawn to improving how systems function—long
 
 I approach complex problems by looking at the system as a whole: where information flow breaks down, where coordination fails, and where unnecessary friction slows progress. Improving those systems isn’t something I was trained to do—it’s simply how I think.
 
-The case studies below highlight examples across research and operational environments where I redesigned workflows to improve reliability, coordination, and sustainability. Each reflects a consistent approach: diagnosing how a system fails, identifying what’s missing, and designing solutions that work in practice—not just in theory.
+The case studies below span scientific research, education, program design, and operations, highlighting situations where I improved workflows, coordination, and system performance. Each reflects the same underlying approach: understanding how the system is actually functioning, identifying the gap between intent and reality, and designing solutions that work in practice—not just in theory.
 
 
 ## [Case Study #1: Beamtime Coordination System Redesign](/case-studies/beamtime-coordination/)
@@ -27,7 +27,7 @@ Built a resilient lab inventory and procurement system that eliminated chronic s
 
 *Operations • Inventory Management • Process Standardization*
 
-## [Case Study #3:Graduate Curriculum Redesign](/case-studies/steering-committee/)
+## [Case Study #3: Graduate Curriculum Redesign](/case-studies/steering-committee/)
 Evaluated a fragmented first-year graduate curriculum by connecting student experience with program-level learning outcomes. Helped reframe a contentious faculty discussion around implementation and system performance, contributing to the retirement and replacement of all three existing courses.
 
 *Program Evaluation • Curriculum Redesign • Stakeholder Engagement*
